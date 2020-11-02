@@ -1,3 +1,5 @@
+# React Concepts
+
 - A library for creating user interfaces
 
 React embraces the fact that rendering logic is inherently coupled with other UI logic 
